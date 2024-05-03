@@ -21,10 +21,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.anassnb1.orderstanma"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9aedefc7-e9d9-4223-8089-9c49bcbbccc5"
+      }
+    },
+    "owner": "anass-nb1"
   }
 }
